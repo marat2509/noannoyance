@@ -1,0 +1,15 @@
+{
+  "description": "Another extension, that removes the 'Window is ready' notification. In contrast to all the other extensions, this uses ES6 syntax and is actively maintained. This extension is a fork of the original with support for GNOME 44.",
+  "name": "NoAnnoyance (fork)",
+  "gettext-domain": "gnome-shell-extension-noannoyance",
+  "settings-schema": "org.gnome.shell.extensions.noannoyance",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ], 
+  "url": "https://github.com/marat2509/noannoyance", 
+  "uuid": "noannoyance@marat2509.dev"
+}
